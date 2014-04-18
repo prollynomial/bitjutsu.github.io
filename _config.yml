@@ -1,0 +1,5 @@
+name: What do you mean this thing has to have a name
+markdown: redcarpet
+redcarpet:
+  extensions: [ "strikethrough" ]
+pygments: true
